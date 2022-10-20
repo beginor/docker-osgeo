@@ -1,0 +1,7 @@
+fastapi[all]
+uvicorn[standard]
+asyncpg
+openpyxl
+python-multipart
+requests
+rasterio
